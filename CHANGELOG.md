@@ -4,6 +4,13 @@
 
 [//]: # (TODO: Fix images with transparent background showing placeholder in translators dialog)
 
+# v3.23.0
+- Fix crash on Android 9
+- Now shows "Wallpaper App" on navigation drawer when external app is set as wallpaper provider
+- Minor fixes
+- Updated Gradle and AGP
+- Updated translations
+
 # v3.22.2
 - Fixed bottom bar overlapping in wallpaper preview
 

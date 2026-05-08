@@ -1,26 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date" translatable="false">October 16, 2025</string>
+    <string name="changelog_date" translatable="false">May 8, 2026</string>
 
     <string-array name="changelog">
-        <item><![CDATA[
-            Improved CandyBar for library usage (thanks to <a href="https://github.com/moertel">@moertel</a>)        
-        ]]></item>
-        <item><![CDATA[
-            Added support for Ion Launcher and mLauncher (thanks to <a href="https://github.com/GitGitro">@GitGitro</a>)        
-        ]]></item>
-        <item><![CDATA[
-            Fixed PhotoView (thanks to <a href="https://github.com/Donnnno">@Donnnno</a>)        
-        ]]></item>
-        <item><![CDATA[
-            Fixed icons showing multiple times in all icons tab (thanks to <a href="https://github.com/Kaiserdragon2">@Kaiserdragon2</a>)        
-        ]]></item>
-        <item>Upgrade Billing Library to version 8</item>
-        <item>Updated translations</item>
+        <item>Fix crash on Android 9</item>
+        <item>Now shows "Wallpaper App" on navigation drawer when external app is set as wallpaper provider</item>
+        <item>Minor fixes</item>
         <item>Updated Gradle and AGP</item>
-        <item>Updated dependencies</item>
-        <item>Fixed issue with predictive back gesture</item>
-        <item>Fixed bottom bar overlapping in wallpaper preview</item>
+        <item>Updated translations</item>
     </string-array>
 
 </resources>
