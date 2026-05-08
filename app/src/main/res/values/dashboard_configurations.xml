@@ -65,6 +65,7 @@
     <string name="premium_request_pacific_api_key"></string>
 
     <!-- CONFIG: CLOUD WALLPAPERS -->
+    <!--<string name="wallpaper_json">com.candybar.sample</string>-->
     <string name="wallpaper_json">https://zixpo.github.io/candybar-sources/walls.json</string>
     <!--<string name="wallpaper_json">assets://wallpapers_offline.json</string>-->
     <bool name="enable_wallpaper_download">true</bool>
